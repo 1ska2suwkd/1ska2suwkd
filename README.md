@@ -1,6 +1,6 @@
 # (=^･ω･^=)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1ska2suwkd)](https://velog.io/@1ska2suwkd/1st-Game-Level-Up-Cat-D-400)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1ska2suwkd)](https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github)
 
 <div align="center">
   <a href="https://blog.naver.com/1ska2suwkd_" style="display:inline-block; margin: 0 4px;">
