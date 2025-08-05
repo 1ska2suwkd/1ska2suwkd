@@ -1,6 +1,6 @@
 # (=^･ω･^=)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velog/post-stats-update)](https://github.com/1ska2suwkd/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1ska2suwkd/post-stats-update)](https://github.com/1ska2suwkd/velog-readme-stats)
 
 <div align="center">
   <a href="https://blog.naver.com/1ska2suwkd_" style="display:inline-block; margin: 0 4px;">
