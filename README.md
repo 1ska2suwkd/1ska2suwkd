@@ -1,64 +1,15 @@
-# velog-readme-stats란?
+# (=^･ω･^=)
 
-> markdown에서 나의 velog의 정보를 가져올수 있는 도구입니다.
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1ska2suwkd)](https://github.com/1ska2suwkd/velog-readme-stats)
 
-# Velog 뱃지
-
-> ?name= 의 값을 변경하세요
-
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole)
-```
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole)
-
-# 최신 글 가져오기
-
-> ?name= 의 값을 변경하세요
-
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
-```
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
-
-## 특정태그를 가진 최신글 가져오기
-
-> Option : `&tag`
-
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
-```
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
-
-## 특정 제목을 가진 글
-
-> Option : `&slug`
-
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://github.com/eungyeole/velog-readme-stats)
-```
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://github.com/eungyeole/velog-readme-stats)
-
-## 상태카드와 최신글 연결하기
-
-> Option : name, tag
-> 카드클릭시 최신글로 리다이렉트 합니다.
-
-```
-https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github
-```
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github)
-
-# 최신 글 목록 가져오기 (Beta)
-
-> ?name= 의 값을 변경하세요
-
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole)
-```
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole)
+<div align="center">
+  <a href="https://blog.naver.com/1ska2suwkd_" style="display:inline-block; margin: 0 4px;">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" style="display:block;">
+  </a>
+  <a href="https://velog.io/@1ska2suwkd/posts" style="display:inline-block; margin: 0 4px;">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" style="display:block;">
+  </a>
+  <a href="https://www.instagram.com/_1ska2suwkd/" style="display:inline-block; margin: 0 4px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" style="display:block;">
+  </a>
+</div>
