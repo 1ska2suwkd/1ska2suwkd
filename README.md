@@ -1,4 +1,5 @@
 # (=^･ω･^=)
+![image](https://github.com/user-attachments/assets/6cd07fba-cfed-4240-8f99-c0fc38dbe201)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1ska2suwkd)](https://velog-readme-stats.vercel.app/api/redirect?name=1ska2suwkd)
 
