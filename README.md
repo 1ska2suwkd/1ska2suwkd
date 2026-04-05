@@ -1,6 +1,6 @@
 # (=^･ω･^=)
-![image](<img width="267" height="292" alt="image" src="https://github.com/user-attachments/assets/e199f379-dd3f-4218-8ca6-8f9377ea8ea8" />
-)
+<img width="267" height="292" alt="image" src="https://github.com/user-attachments/assets/e199f379-dd3f-4218-8ca6-8f9377ea8ea8" />
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1ska2suwkd)](https://velog-readme-stats.vercel.app/api/redirect?name=1ska2suwkd)
 
